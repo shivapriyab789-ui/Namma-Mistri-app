@@ -28,6 +28,11 @@ This project solves this by providing a **Village Digital Notice Board** where e
 *   **UI Components**: Material Design 3, View Binding
 *   **Image Loading**: Coil
 
+## 📸 Screenshots (Placeholders)
+| Project List | Project Detail | Admin Dashboard |
+| :---: | :---: | :---: |
+| ![List View](https://via.placeholder.com/200x400?text=Project+List) | ![Detail View](https://via.placeholder.com/200x400?text=Project+Detail) | ![Admin Dashboard](https://via.placeholder.com/200x400?text=Admin+Dashboard) |
+
 ## 📦 Installation & Setup
 
 ### Prerequisites
